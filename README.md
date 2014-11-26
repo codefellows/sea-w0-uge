@@ -1,4 +1,4 @@
-Git & Unix for Everyone
+Unix & Git for Everyone
 -----------------------
 
 ### Pre-work for Everyone
@@ -33,6 +33,30 @@ http://teamtreehouse.com/library/git-basics
 
 ---
 
+### Pre-work for Mac OS X users
+
+##### 1. Launch the Terminal app
+
+**TIP:** The Terminal lives in the `/Applications/Utilties/` directory.
+
+![](https://i.imgur.com/bjEZWfn.png)
+
+##### 2. Copy and paste the following command into the Terminal
+
+```
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+```
+
+##### 3. Test **Sublime Text** launches when running the following command:
+
+```
+subl
+```
+
+![](https://i.imgur.com/qUKikMZ.png)
+
+---
+
 ### Pre-work for Windows users
 
 ##### 1. Download and install Git for Windows
@@ -41,13 +65,11 @@ http://msysgit.github.io/
 
 **TIP:** When installing, use the default options for everything.
 
-
 ##### 2. Launch Git Bash
-
-![](https://i.imgur.com/kcMPKeI.png)
 
 **TIP:** Don't be distracted by the **Git GUI** program.
 
+![](https://i.imgur.com/kcMPKeI.png)
 
 ##### 3. Copy and paste the following command into Git Bash
 
@@ -55,7 +77,7 @@ http://msysgit.github.io/
 curl -fsSL http://git.io/cWIXEw | sh
 ```
 
-##### 4. Test **Sublime Text** can be launched by running the following command:
+##### 3. Test **Sublime Text** launches when running the following command:
 
 ```
 subl
@@ -65,21 +87,13 @@ subl
 
 ---
 
-### Getting Started
+### Final Assignment
 
-1. Create a fork of this repository
+Demonstrate the following skills using **only** your terminal, your text editor, and your browser:
 
-1. Clone the fork to your computer
+##### 1. Create a fork of this repository
 
-
-### Unix Assignment
-
-
-
-### Git Assignment
-
-Demonstrate the following Git skills:
-
+##### 2. Clone the fork to your computer
 
 ##### 3. Create a new branch called `funny_image`
 
