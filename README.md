@@ -6,10 +6,10 @@ Unix & Git for Everyone
 ##### 1. Ensure your laptop:
 
   - Is virus and malware free
-  - Uses the latest, most stable, fully updated version of its operating system
+  - Uses the latest, stable, updated version of its operating system
+  - Has a functioning screen, keyboard, and trackpad
   - Has plenty of free hard drive space and memory
   - Can reliably connect to wireless networks
-  - Has a functioning keyboard and pointing device
   - And is generally up to the task of coding
 
 ##### 2. Download and install Sublime Text 2
