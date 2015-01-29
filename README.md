@@ -3,7 +3,7 @@ Unix & Git for Everyone
 
 ### Pre-work
 
-##### 1. Ensure your laptop up to the task of coding
+**1.** Ensure your laptop up to the task of coding
 
   - Is virus and malware free
   - Uses the latest, stable, updated version of its operating system
