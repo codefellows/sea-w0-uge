@@ -3,7 +3,7 @@ Unix & Git for Everyone
 
 ### Pre-work
 
-**1.** Ensure your laptop up to the task of coding
+##### 1. Ensure your laptop up to the task of coding
 
   - Is virus and malware free
   - Uses the latest, stable, updated version of its operating system
@@ -30,7 +30,7 @@ Unix & Git for Everyone
 
 Demonstrate the following skills using **only** your Terminal, your text editor, and your web browser.
 
-##### 1. Create a fork of this repository
+**1.** Create a fork of this repository
 
 ##### 2. Clone the fork to your computer
 
