@@ -1,3 +1,0 @@
-When I push before committing...
-
-![](http://media.tumblr.com/tumblr_mbdkzyUvg91rqfksw.gif)
