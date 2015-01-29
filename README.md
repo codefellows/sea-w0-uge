@@ -30,7 +30,7 @@ Unix & Git for Everyone
 
 Demonstrate the following skills using **only** your Terminal, your text editor, and your web browser.
 
-**1.** Create a fork of this repository
+##### 1. Create a fork of this repository
 
 ##### 2. Clone the fork to your computer
 
