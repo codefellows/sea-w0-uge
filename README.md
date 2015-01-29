@@ -34,32 +34,46 @@ Demonstrate the following skills using **only** your terminal, your text editor,
 
 ##### 2. Clone the fork to your computer
 
-##### 3. Create a new branch called `funny_image`
+##### 3. Create a new branch called `notes`
 
-##### 4. Checkout the branch `funny_image`
+##### 4. Checkout the branch `notes`
 
 ##### 5. Create a directory with the same name as your GitHub username
 
 For example, `ryansobol`
 
-##### 6. Create a read me file in this directory
+##### 6. Create a `unix_notes.txt` file in this directory
 
-For example, `ryansobol/README.md`
+For example, `ryansobol/unix_notes.txt`
 
-##### 7. Add a link to a funny image in this file
+##### 7. Add the notes about what you've learned about Unix to this file
 
 For example,
 
 ```
-When I push before committing...
-
-![](http://media.tumblr.com/tumblr_mbdkzyUvg91rqfksw.gif)
+cd <path> Changes the working directory to <path>
+ls <path> Lists the directory content of <path>
+...
 ```
 
-##### 8. Add this untracked file to the staging area
+##### 8. Create a `git_notes.txt` file in this directory
 
-##### 9. Commit the changes
+For example, `ryansobol/git_notes.txt`
 
-##### 10. Push the branch to the origin remote
+##### 9. Add the notes about what you've learned about Git to this file
 
-##### 11. Send a pull request from this branch to Code Fellows' `master` branch
+For example,
+
+```
+git add <file> Adds any changes inside <file> to the staging area
+git commit -m '<message>' Commits the staging area to the repository
+...
+```
+
+##### 10. Add these untracked files to the staging area
+
+##### 11. Commit the changes
+
+##### 12. Push the branch to the `origin` remote
+
+##### 13. Send a pull request from this branch to Code Fellows' `master` branch
