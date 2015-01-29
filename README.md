@@ -28,7 +28,7 @@ Unix & Git for Everyone
 
 ### Assignment
 
-Demonstrate the following skills using **only** your terminal, your text editor, and your browser:
+Demonstrate the following skills using **only** your Terminal, your text editor, and your browser.
 
 ##### 1. Create a fork of this repository
 
