@@ -40,7 +40,7 @@ Demonstrate the following skills using **only** your Terminal, your text editor,
 
 ##### 5. Create a directory with the same name as your GitHub username
 
-For example, `ryansobol`
+For example, `ryansobol/`
 
 ##### 6. Create a `unix_notes.txt` file in this directory
 
