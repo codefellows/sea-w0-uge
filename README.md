@@ -66,7 +66,7 @@ For example,
 
 ```
 git add <file> Adds any changes inside <file> to the staging area
-git commit -m '<message>' Commits the staging area to the repository
+git commit -m '<message>' Commits the staging area to the repository with a <message>
 ...
 ```
 
