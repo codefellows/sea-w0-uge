@@ -20,9 +20,9 @@ Unix & Git for Everyone
 
 ##### 3. Complete the setup guide for your computer's operating system
 
-  - [Mac OS X](mac/1_terminal.md)
-  - [Ubuntu](ubuntu/1_terminal.md)
-  - [Windows](windows/1_terminal.md)
+  - [Mac OS X](prework/mac/1_terminal.md)
+  - [Ubuntu](prework/ubuntu/1_terminal.md)
+  - [Windows](prework/windows/1_terminal.md)
 
 ---
 
