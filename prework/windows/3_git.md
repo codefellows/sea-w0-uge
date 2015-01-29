@@ -47,4 +47,4 @@ curl -fsSL http://git.io/Fasb | sh
 Time for a frosty beverage. :beers:
 
 
-### [⇐ Previous](2_sublime_text.md) | [README ⇒](../../)
+### [⇐ Previous](2_sublime_text.md) | [README ⇒](../../../../)
