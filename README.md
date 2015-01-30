@@ -28,6 +28,8 @@ Unix & Git for Everyone
 
 ### Assignment
 
+At the workshop, you'll learn all the skills necessary to complete this assignment. It's due before the start of your follow-up Code Fellows course.
+
 Demonstrate the following skills using **only** your Terminal, your text editor, and your web browser.
 
 ##### 1. Create a fork of this repository
