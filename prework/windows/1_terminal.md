@@ -14,6 +14,8 @@ A **Unix shell** is a command line user interface between you and your computer'
 
 Sadly, Windows **does not** include a Unix shell. Let's fix that.
 
+CAVEAT: Until Windows adopts more Unix standards, please be aware that any Unix-based tools written for Windows will inevitably have some quirks.
+
 
 ### Install Git for Windows
 
