@@ -63,7 +63,7 @@ While Bash's startup file is handy, add the following settings.
 export EDITOR='subl -w'
 ```
 
-TIP: Environment variables, like `EDITOR`, must be written in all capital letters.
+**TIP:** Environment variables, like `EDITOR`, must be written in all capital letters.
 
 Save the file and you'll see something like this.
 
@@ -75,7 +75,7 @@ Now, relaunch the Terminal and verify these settings with the following command.
 echo $EDITOR
 ```
 
-TIP: Environment variables must be written in all capital letters.
+**TIP:** Environment variables must be written in all capital letters.
 
 And you'll see something like this.
 
@@ -92,7 +92,7 @@ To see the contents of the PATH environment variable, run the following command
 echo $PATH
 ```
 
-TIP: Environment variables, like `PATH`, must be written in all capital letters.
+**TIP:** Environment variables, like `PATH`, must be written in all capital letters.
 
 And you'll see something like this.
 
