@@ -32,7 +32,7 @@ The prompt is the visual cornerstone of any shell, so let's change it to be both
 To download and install a better prompt, run the following command.
 
 ```
-curl -fsSL http://git.io/FzAR | ruby
+curl -fsSL http://git.io/beJs | ruby
 ```
 
 To verify the new prompt is installed correctly, relaunch the Terminal. You'll see something like this.
